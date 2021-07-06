@@ -10,7 +10,7 @@ header{
 nav{
     float: right;
     margin: 0 auto;
-    width: 500px;
+    width: 600px;
     height: 40px;
 }
 nav li{
@@ -23,20 +23,24 @@ nav li{
 nav a{
     text-decoration: none;
     color: black;
+    font-weight: bolder;
 }
 h1{
     font-size: 60px;
     color: rgba(87, 87, 87, 1);
     text-shadow: 1px 1px gray;
+    font-weight: bold;
 }
 h2{
     font-size: 40px;
     margin-top: 15%;
     color: rgba(103, 103, 103, 1);
+    font-weight: bolder;
 }
 h3{
     font-size: 30px;
     color: rgba(24, 25, 31, 1);
+    font-weight: bolder;
 }
 p{
     font-size: 18px;
