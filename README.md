@@ -1,2 +1,1 @@
-# assignment-portfolio
 # food-project

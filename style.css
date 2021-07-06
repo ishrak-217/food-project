@@ -75,8 +75,8 @@ p{
 }
 .second-image{
     width: 50%;
-    padding-top: 100px;
-    padding-left: 150px;
+    padding-top: 200px;
+    padding-left: 190px;
 }
 .second-text{
     width: 50%;
@@ -91,7 +91,7 @@ p{
     margin-top: 100px;
 }
 .second-image img{
-    width: 60%;
+    width: 50%;
 }
 .button{
     text-decoration: none;
@@ -122,10 +122,10 @@ p{
 .foods{
     width: 32%;
     color: rgba(24, 25, 31, 1);
-    padding: 10px;
+    padding: 15px;
     margin-left: 50px;
     margin-right: 50px;
-    box-shadow: 0 0 30px 5px grey;
+    box-shadow: 0 0 30px 5px rgb(184, 184, 184);
     border-radius: 20px;
 }
 .bean-food img{
@@ -145,7 +145,7 @@ p{
     margin-top: 5%;
     margin-left: 10%;
     margin-right: 10%;
-    box-shadow: 0 0 30px 20px whitesmoke;
+    box-shadow: 0 0 30px 20px rgb(216, 216, 216);
     border-radius: 15px;
 }
 .social-media{
@@ -157,7 +157,7 @@ p{
     font-weight: bolder;
 }
 .sign-up{
-    padding-left: 20%;
+    text-align: center;
     margin-bottom: 50px;
 }
 .sign-up input{
@@ -171,5 +171,5 @@ p{
     text-align: center;
     color: white;
     padding-top: 40px;
-    padding-bottom: 100px;
+    padding-bottom: 40px;
 }
