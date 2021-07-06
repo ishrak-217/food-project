@@ -140,6 +140,10 @@ p{
     width: 100%;
     border-radius: 20px;
 }
+.no-decoration a{
+    text-decoration: none;
+    color: cadetblue;
+}
 .media-section{
     display: flex;
     margin-top: 5%;
