@@ -1,0 +1,175 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+header{
+    border: 0 solid;
+    padding: 20px;
+    height: 50px;
+}
+nav{
+    float: right;
+    margin: 0 auto;
+    width: 500px;
+    height: 40px;
+}
+nav li{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+    margin-right: 40px;
+    font-size: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    font-size: 60px;
+    color: rgba(87, 87, 87, 1);
+    text-shadow: 1px 1px gray;
+}
+h2{
+    font-size: 40px;
+    margin-top: 15%;
+    color: rgba(103, 103, 103, 1);
+}
+h3{
+    font-size: 30px;
+    color: rgba(24, 25, 31, 1);
+}
+p{
+    font-size: 18px;
+    color: rgba(37, 37, 37, 1);
+}
+.padding-para{
+    padding-bottom: 40px;
+}
+.allignment{
+    padding-top: 5%;
+    text-align: center;
+}
+.salmon-highlight{
+    color: rgba(251, 162, 79, 1);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 2%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+    height: 100%;
+}
+.intro-banner{
+    height: 500px;
+    padding-top: 3%;
+}
+.second-section{
+    display: flex;
+    margin-top: 100px;
+    background-image: url(images/shapes/7.png);
+    margin-bottom: 80px;
+}
+.second-image{
+    width: 50%;
+    padding-top: 100px;
+    padding-left: 150px;
+}
+.second-text{
+    width: 50%;
+    padding-top: 170px;
+    padding-right: 100px;
+}
+.second-text h2{
+    padding-bottom: 50px;
+    font-weight: 800;
+}
+.second-text a{
+    margin-top: 100px;
+}
+.second-image img{
+    width: 60%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, rgba(251, 162, 79, 1), rgba(255, 30, 30, 1));
+    padding: 15px 25px;
+    border-radius: 25px;
+    color: white;
+}
+.recipe-section{
+    margin-bottom: 100px;
+}
+.recipes{
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+.recipes h2{
+    padding-bottom: 30px;
+    font-weight: bold;
+}
+.food-section{
+    display: flex;
+    margin-bottom: 100px;
+    box-sizing: border-box;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+.foods{
+    width: 32%;
+    color: rgba(24, 25, 31, 1);
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    box-shadow: 0 0 30px 5px grey;
+    border-radius: 20px;
+}
+.bean-food img{
+    width: 100%;
+    border-radius: 20px;
+}
+.vegan-meat img{
+    width: 100%;
+    border-radius: 20px;
+}
+.dal-makhni img{
+    width: 100%;
+    border-radius: 20px;
+}
+.media-section{
+    display: flex;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: 0 0 30px 20px whitesmoke;
+    border-radius: 15px;
+}
+.social-media{
+    width: 33%;
+    padding: 50px 100px;
+}
+.social-media h2{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.sign-up{
+    padding-left: 20%;
+    margin-bottom: 50px;
+}
+.sign-up input{
+    padding: 10px 50px;
+    border: 5px solid gray;
+    border-radius: 15px;
+}
+.footer-part{
+    margin-bottom: 10px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 100px;
+}
